@@ -15,9 +15,9 @@ Each directory includes its own `Makefile` for compilation and execution.
 ## Running the Code
 You can compile and run each version of the FFT algorithm using the provided Makefiles. For example, to compile and run the OpenMP version:
 
-cd OMP
-make
-make run
+- `cd OMP`
+- `make`
+- `make run`
 
 Follow a similar process for the Serial and MPI versions.
 
@@ -25,7 +25,7 @@ Make sure to adjust the compilation parameters in the Makefiles according to you
 
 ## Contributors
 
-Amine IDRES 21322043
-Rania Blibek 21
+- Amine IDRES 21322043
+- Rania Blibek 21
 
 
