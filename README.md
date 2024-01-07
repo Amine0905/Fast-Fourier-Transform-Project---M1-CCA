@@ -25,7 +25,7 @@ Make sure to adjust the compilation parameters in the Makefiles according to you
 
 ## Contributors
 
-- Amine IDRES 21322043
-- Rania Blibek 21
+- Amine IDRES `21322043`
+- Rania Blibek `21215298`
 
 
