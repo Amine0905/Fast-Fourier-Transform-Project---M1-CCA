@@ -21,6 +21,8 @@ You can compile and run each version of the FFT algorithm using the provided Mak
 
 Follow a similar process for the Serial and MPI versions.
 
+The `Makefile` uses sub-makefiles in each directory (`OMP`, `Serial`, `MPI`). The target `all` builds each type of program, and the target `clean` cleans the object and executable files in each directory. You can run `make` at the project root to build all programs and `make clean` to clean the generated files.
+
 Make sure to adjust the compilation parameters in the Makefiles according to your system requirements.
 
 ## Contributors
